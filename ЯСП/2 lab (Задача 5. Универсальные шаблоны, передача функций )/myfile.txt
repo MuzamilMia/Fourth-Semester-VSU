@@ -1,0 +1,71 @@
+1
+Pis_Ak4
+0.50 inches
+7
+0
+12
+Pistol
+2
+MP4
+7.62 mm
+30
+0
+8
+Ranged
+3
+RK_45
+18.5 mm
+6
+0
+5
+Ranged
+2
+Gun_44_k
+9.00 mm
+30
+0
+10
+Ranged
+3
+KL_900
+7.62 mm
+10
+0
+7
+Ranged
+1
+Pistol_russian
+9.00 mm
+17
+0
+11
+Pistol
+2
+AK4_USA
+5.56 mm
+30
+0
+9
+Ranged
+3
+KL_Explosiv
+18.5 mm
+7
+0
+6
+Explosive
+2
+German_AKL4
+0.45 inches
+25
+0
+10
+Energy
+3
+Lk_Russian
+8.6 mm
+5
+0
+4
+Melee
+-1
